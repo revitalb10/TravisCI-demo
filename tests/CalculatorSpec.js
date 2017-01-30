@@ -35,6 +35,6 @@ describe( 'calculator', function () {
       } );
   }
 
-      } );
+     
 } );
 
